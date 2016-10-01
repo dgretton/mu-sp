@@ -1,0 +1,4 @@
+from proto import *
+
+def split_all(tracks, into):
+    

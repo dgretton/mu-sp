@@ -1,0 +1,9 @@
+*.wav
+*.flac
+*.aifc
+*.aup
+*.au
+*.pyc
+*.auf
+
+.dropbox
